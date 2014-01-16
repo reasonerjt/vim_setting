@@ -13,6 +13,7 @@ set nu
 set hlsearch
 set showcmd
 set backspace=start,indent,eol
+set tags=$HOME/.vim/ctags
 
 hi LineNr term=bold ctermfg=Yellow guifg=Yellow
 :filetype plugin on 
