@@ -3,6 +3,7 @@ set t_Co=256
 colorscheme molokai
 set viminfo^=!
 set smartindent
+set incsearch
 set autoindent
 set smarttab
 set tabstop=4
