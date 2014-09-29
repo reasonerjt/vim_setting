@@ -19,7 +19,7 @@ hi LineNr term=bold ctermfg=Yellow guifg=Yellow
 :filetype plugin on 
 nmap <F7> :NERDTreeToggle<CR>
 nmap <F6> :TagbarToggle<CR>
-nmap <F12>:NERDTreeFind<CR>
+nmap <F12> :NERDTreeFind<CR>
 let Tlist_Use_Right_Window=1
 let Tlist_File_Fold_Auto_Close=1
 call pathogen#infect()

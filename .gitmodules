@@ -1,0 +1,3 @@
+[submodule "bundle/neocomplete"]
+	path = bundle/neocomplete
+	url = git://github.com/Shougo/neocomplete.vim.git
