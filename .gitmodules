@@ -1,3 +1,12 @@
 [submodule "bundle/neocomplete"]
 	path = bundle/neocomplete
 	url = git://github.com/Shougo/neocomplete.vim.git
+[submodule "bundle/neosnippet"]
+	path = bundle/neosnippet
+	url = git://github.com/Shougo/neosnippet.vim
+[submodule "bundle/vim-go"]
+	path = bundle/vim-go
+	url = git://github.com/fatih/vim-go
+[submodule "bundle/tagbar"]
+	path = bundle/tagbar
+	url = git://github.com/majutsushi/tagbar
